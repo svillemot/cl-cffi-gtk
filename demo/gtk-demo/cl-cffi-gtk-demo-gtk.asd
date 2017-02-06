@@ -26,6 +26,7 @@
                (:file "color-chooser-dialog")
                (:file "combo-box")
                (:file "combo-box-text")
+               (:file "debugger")
                (:file "drag-and-drop")
                (:file "css-accordion")
                (:file "css-pixbufs")
