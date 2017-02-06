@@ -306,6 +306,7 @@
 
    ;; Lisp
    (:file "gtk.init")
+   (:file "gtk.debugger")
 )
   :depends-on (:cl-cffi-gtk-glib
                :cl-cffi-gtk-gobject
