@@ -10,8 +10,6 @@
     (define-foreign-library gst-base
       (t "libgstbase-1.0.so"))
     (define-foreign-library gst-video
-      (t "libgstvideo-1.0.so"))
-    (define-foreign-library gst-video
       (t "libgstvideo-1.0.so")))
   (unless (foreign-library-loaded-p 'gst)
     (use-foreign-library gst))
