@@ -49,6 +49,7 @@
    (:file "gio.simple-action")       ; Simple GAction implementation
    (:file "gio.simple-action-group") ; Simple GActionGroup implementation
    (:file "gio.application")         ; Core application class
+   (:file "gio.application-command-line")
    (:file "gio.menu-model")          ; Class representing the contents of a menu
    (:file "gio.menu")                ; Simple implementation of GMenuModel
   )
